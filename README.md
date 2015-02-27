@@ -1,4 +1,4 @@
-#T-Shirts Web Site
+#TShirt.ly
 A mock retail website featuring a database of user names and encrypted passwords, a shopping cart function, and an admin panel. 
 
 This project was created by:
